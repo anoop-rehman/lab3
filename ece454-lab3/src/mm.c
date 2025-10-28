@@ -17,11 +17,11 @@
  ********************************************************/
 team_t team = {
     /* Team name */
-    "default-name",
+    "ece454 #1 fan",
     /* First member's first name and last name */
-    "John:Doe",
+    "Anoop:Rehman",
     /* First member's student number */
-    "0000000000",
+    "1007855894",
     /* Second member's first name and last name (do not modify if working alone) */
     "",
     /* Second member's student number (do not modify if working alone) */
